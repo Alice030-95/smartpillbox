@@ -1,0 +1,14 @@
+../Core/Src/main.c:104:13:UART_Print	1
+../Core/Src/main.c:114:13:LED_Set	1
+../Core/Src/main.c:125:20:Result_Text	5
+../Core/Src/main.c:143:13:Start_Reminder	2
+../Core/Src/main.c:162:13:Set_Overdue	1
+../Core/Src/main.c:173:13:Confirm_Medicine	6
+../Core/Src/main.c:209:13:Mark_Missed	5
+../Core/Src/main.c:232:13:Print_Daily_Report	1
+../Core/Src/main.c:251:13:Pillbox_Update	25
+../Core/Src/main.c:333:5:main	8
+../Core/Src/main.c:409:6:SystemClock_Config	3
+../Core/Src/main.c:452:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:460:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:479:6:Error_Handler	1
